@@ -35,15 +35,30 @@ Provides a consolidated view of overall business performance through key metrics
 Evaluates vehicle-wise performance to understand revenue contribution, completed bookings, customer distribution, trip distance, and operational trends across Bike and Auto services.
 
 
+<img width="1680" height="1050" alt="Screenshot 2026-11-11 at 3 31 12 AM" src="https://github.com/user-attachments/assets/e89c2e0d-d866-44ad-bf50-7b733973fa88" />
+
+
+
  ### 3. Customer Analytics: 
  
  Analyses customer segmentation, booking behaviour, payment preferences, cancellation patterns, and customer-level engagement to identify retention opportunities.
 
 
 
+<img width="1680" height="1050" alt="Screenshot 2026-11-11 at 3 31 20 AM" src="https://github.com/user-attachments/assets/1a367baa-d788-41e8-8330-a22342d024f3" />
+
+
+
 ### 4. Revenue Analytics: 
 
 Evaluates revenue contribution by vehicle type, payment method, and customer to identify key revenue drivers and growth opportunities.
+
+
+
+<img width="1680" height="1050" alt="Screenshot 2026-11-11 at 3 31 37 AM" src="https://github.com/user-attachments/assets/8e9053f9-8e60-46df-8b70-2f0453ce819e" />
+
+
+
 
 ---
 
