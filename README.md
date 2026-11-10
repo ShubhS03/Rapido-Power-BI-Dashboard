@@ -27,6 +27,8 @@ The project demonstrates how business intelligence and data visualization can su
 Provides a consolidated view of overall business performance through key metrics, booking trends, revenue analysis, geographic activity, and customer and driver satisfaction.
 
 
+<img width="1680" height="1050" alt="Screenshot 2026-11-11 at 3 30 57 AM" src="https://github.com/user-attachments/assets/2d51a2be-a4f8-4cda-97cc-87143d4d3b88" />
+
 
 ### 2. Vehicle Analysis Dashboard
 
