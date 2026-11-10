@@ -20,6 +20,8 @@ The project demonstrates how business intelligence and data visualization can su
 
 ---
 
+
+
 ## 📊 Dashboard Preview
 
 ### 1. Business Overview Dashboard
@@ -466,37 +468,14 @@ More importantly, this project emphasizes that effective data analytics goes bey
 
 **The ultimate objective is not just to visualize data, but to transform it into insights that support smarter, more informed, and data-driven business decisions.**
 
----
-
-# 📂 Repository Structure
-
-```text
-Rapido-Power-BI-Analysis/
-│
-├── README.md
-│
-├── Dashboard/
-│   ├── Rapido_Overview.png
-│   ├── Rapido_Vehicle_Analysis.png
-│   ├── Rapido_Customer_Analysis.png
-│   └── Rapido_Revenue_Analysis.png
-│
-├── PowerBI/
-    └── Rapido_Analysis.pbix
-
-
-```
 
 ---
 
 # 👨‍💻 Author
 
-**Data Analytics & Business Intelligence Enthusiast**
+**Shubham Suji**  
+Power BI | Data Analytics  
 
-This project is part of my Data Analytics portfolio, where I explore real-world business problems through data analysis, visualization, and actionable insights.
+📌 GitHub Repository:  
+https://github.com/ShubhS03/Rapido-Power-BI-Dashboard.git
 
-I am continuously developing my skills in SQL, Microsoft Excel, Power BI, Python, and business analytics to solve practical business problems using data.
-
-If you find this project interesting, feel free to explore the repository and share your feedback!
-
-⭐ If you like this project, consider giving the repository a star.
